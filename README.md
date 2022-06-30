@@ -16,3 +16,7 @@
 - https://www.nature.com/articles/d41586-018-02404-4
 - https://collegeinfogeek.com/write-excellent-papers-quickly/
 - https://www.washingtonpost.com/blogs/answer-sheet/post/a-guide-to-writing-an-academic-paper/2012/01/18/gIQAjGCTCQ_blog.html
+
+
+## How to learn ML in general?
+- https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/?fbclid=IwAR3PSW1hs1SlUfavNzDQk-aRggZR0F9hBpcWM9qmXw6vYh6Mf5xv2buXjEo
