@@ -1,5 +1,11 @@
 # How to write great papers?
 
+# Introduction
+
+Welcome to the "How to Write Great Papers?" repository! This repository aims to provide valuable resources and guidance for individuals looking to enhance their paper writing skills, whether it be for academic research, professional publications, or any other purpose.
+
+# Resources to check out
+
 ## Books
 - http://thuvienso.bvu.edu.vn/bitstream/TVDHBRVT/15289/1/How-to-Write-a-Research-Paper.pdf
 - http://tiramisutes.github.io/images/PDF/English+for+Writing+Research+Papers.pdf
@@ -20,5 +26,10 @@
 
 ## How to write ML papers specifically?
 - https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/?fbclid=IwAR3PSW1hs1SlUfavNzDQk-aRggZR0F9hBpcWM9qmXw6vYh6Mf5xv2buXjEo
+
+# Contributing
+
+Contributions to this repository are welcome! If you have additional resources, articles, videos, or any other content related to writing great papers, feel free to submit a pull request.
+
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
