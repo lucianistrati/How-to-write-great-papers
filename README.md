@@ -32,4 +32,4 @@ Welcome to the "How to Write Great Papers?" repository! This repository aims to 
 Contributions to this repository are welcome! If you have additional resources, articles, videos, or any other content related to writing great papers, feel free to submit a pull request.
 
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
